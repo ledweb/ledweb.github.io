@@ -124,20 +124,20 @@ margin-bottom:10px;
 /* PROJECTS */
 
 .projects {
-    border-top: 1px solid rgba(169, 169, 169, 0.68);
+    /*border-top: 1px solid rgba(169, 169, 169, 0.68);*/
     margin-left: 100px;
     margin-right: 100px;
 }
 
 #title-projects {
-    margin-top: 40px;
+    /*margin-top: 20px;*/
     margin-bottom: 100px;
     text-align:center;
     font-family:"Raleway-SemiBold",sans-serif, "Open Sans",sans-serif, "Conv_AvenirLTStd-Book",sans-serif;
 }
 
 .all-photo-pictures {
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .col-md-4 a:hover {
@@ -335,8 +335,8 @@ margin-bottom:10px;
 /*VISION*/
 
 .vision-description {
-    border-top: 1px solid rgba(169, 169, 169, 0.68);
-    border-bottom: 1px solid rgba(169, 169, 169, 0.68);
+    /*border-top: 1px solid rgba(169, 169, 169, 0.68);*/
+    /*border-bottom: 1px solid rgba(169, 169, 169, 0.68);*/
 
     /*margin-top: 80px;*/
     /*margin-bottom: 50px;*/
