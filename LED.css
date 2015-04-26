@@ -344,8 +344,8 @@ margin-bottom:10px;
     font-size: 16px;
     /*margin-left: 100px;*/
     /*margin-right: 100px;*/
-    /*margin: 80px 100px 50px*/
-    width: 100%;
+    margin: 80px 60px 50px
+    /*width: 100%;*/
 }
 
 
@@ -368,10 +368,10 @@ margin-bottom:10px;
 }
 
 .what-we-do {
-    background-color: rgba(128, 128, 128, 0.17);
+    background-color: rgba(128, 128, 128, 0.10);
     margin-right: 70px;
     margin-left: 70px;
-    padding: 20px;
+    padding: 30px;
     padding-bottom: 20px;
 }
 
