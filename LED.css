@@ -344,8 +344,10 @@ margin-bottom:10px;
     font-size: 16px;
     /*margin-left: 100px;*/
     /*margin-right: 100px;*/
-    margin: 80px 100px 50px
+    /*margin: 80px 100px 50px*/
+    width: 100%;
 }
+
 
 #title-vision{
     margin-top: 40px;
