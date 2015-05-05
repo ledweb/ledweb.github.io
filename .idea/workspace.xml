@@ -2,121 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5280080c-677e-45d0-8797-3748894411cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Bootstrap/bootstrap.min.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Birthday Hiking.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PYChallenge2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ZeeGuu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ZeeGuu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zeeguu2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Zeeguu2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ada-first-try.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap_try.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstraps.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstraps_try.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/first-version-LED.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Afis-NstopExp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/IMG_2537 mica.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/background-spirals.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/blue-sea.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/brickwall_@2X.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/discover.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/earth-white-big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/earth-white.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/textura-sac.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/white_horses.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/wide-edu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/new_BTS.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/new_bts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practice960.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Africa-page-EN.html" afterPath="$PROJECT_DIR$/Trying960Grid.html/Africa.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Africa.css" afterPath="$PROJECT_DIR$/css/Africa.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Africa_page.html" afterPath="$PROJECT_DIR$/ro/Africa.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CoderDojo-EN.css" afterPath="$PROJECT_DIR$/css/CoderDojo.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CoderDojo-EN.html" afterPath="$PROJECT_DIR$/CoderDojo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Documentaries.css" afterPath="$PROJECT_DIR$/css/Documentaries.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Documentaries.html" afterPath="$PROJECT_DIR$/ro/Documentaries.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LED.css" afterPath="$PROJECT_DIR$/css/LED.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Outdoor-EN.css" afterPath="$PROJECT_DIR$/css/OutdoorLife.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Outdoor-EN.html" afterPath="$PROJECT_DIR$/OutdoorLife.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Outdoor.css" afterPath="$PROJECT_DIR$/css/ro/Outdoor.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Outdoor.html" afterPath="$PROJECT_DIR$/ro/Outdoor.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Partners.css" afterPath="$PROJECT_DIR$/css/Partners.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ada-homepage.css" afterPath="$PROJECT_DIR$/css/ada-homepage.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/boot-again.html" afterPath="$PROJECT_DIR$/ro/boot-again.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/css/Bootstrap/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/css/Bootstrap/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/css/Bootstrap/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/Bootstrap/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/css/Bootstrap/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/grid.html" afterPath="$PROJECT_DIR$/ro/grid.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)at-the-wall.JPG" afterPath="$PROJECT_DIR$/img/Carousel/(cut)at-the-wall.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)blue-school-boys.jpg" afterPath="$PROJECT_DIR$/img/Carousel/(cut)blue-school-boys.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)blue-school-boys.png" afterPath="$PROJECT_DIR$/img/Carousel/(cut)blue-school-boys.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)carry-back.JPG" afterPath="$PROJECT_DIR$/img/Carousel/(cut)carry-back.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)golden-girl.jpg" afterPath="$PROJECT_DIR$/img/Carousel/(cut)golden-girl.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)lil-africans-Lavi.JPG" afterPath="$PROJECT_DIR$/img/Carousel/(cut)lil-africans-Lavi.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)lil-africans-Lavi.png" afterPath="$PROJECT_DIR$/img/Carousel/(cut)lil-africans-Lavi.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)look-back-african.JPG" afterPath="$PROJECT_DIR$/img/Carousel/(cut)look-back-african.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)masai-colors.jpg" afterPath="$PROJECT_DIR$/img/Carousel/(cut)masai-colors.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)masai-colors.png" afterPath="$PROJECT_DIR$/img/Carousel/(cut)masai-colors.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)masked-afro-boys.png" afterPath="$PROJECT_DIR$/img/Carousel/(cut)masked-afro-boys.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/(cut)tiger-colors.jpg" afterPath="$PROJECT_DIR$/img/Carousel/(cut)tiger-colors.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/CD2.jpg" afterPath="$PROJECT_DIR$/img/CoderDojo/CD2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/CD2.png" afterPath="$PROJECT_DIR$/img/CoderDojo/CD2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/CDfrontpage.jpg" afterPath="$PROJECT_DIR$/img/CoderDojo/CDfrontpage.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Classroom-redim.png" afterPath="$PROJECT_DIR$/img/Carousel/Classroom-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/CoderDojo-450x300.png" afterPath="$PROJECT_DIR$/img/CoderDojo/CoderDojo-450x300.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/DocHunters-450x300.png" afterPath="$PROJECT_DIR$/img/Documentaries/DocHunters-450x300.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/DocHunters272x185.png" afterPath="$PROJECT_DIR$/img/Documentaries/DocHunters272x185.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/DocuProfile_OneMan.jpg" afterPath="$PROJECT_DIR$/img/Documentaries/DocuProfile_OneMan.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/DocumHunters_Cover.jpg" afterPath="$PROJECT_DIR$/img/Documentaries/DocumHunters_Cover.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Game-redim.png" afterPath="$PROJECT_DIR$/img/CoderDojo/Game-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/IntenseTeaching-redim.png" afterPath="$PROJECT_DIR$/img/CoderDojo/IntenseTeaching-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/LED Ada Portrait.JPG" afterPath="$PROJECT_DIR$/img/Portraits/LED Ada Portrait.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/LED Ada Portrait.png" afterPath="$PROJECT_DIR$/img/Portraits/LED Ada Portrait.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/LED M Portrait.jpg" afterPath="$PROJECT_DIR$/img/Portraits/LED M Portrait.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Sigla CoderDojo Cluj.png" afterPath="$PROJECT_DIR$/img/Logos/Sigla CoderDojo Cluj.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/TeamBuild.JPG" afterPath="$PROJECT_DIR$/img/OutdoorLife/TeamBuild.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/UnderMedia-redim.png" afterPath="$PROJECT_DIR$/img/CoderDojo/UnderMedia-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Work-redim.png" afterPath="$PROJECT_DIR$/img/CoderDojo/Work-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/africa-school-class.jpg" afterPath="$PROJECT_DIR$/img/Africa/africa-school-class.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/africa-school-classroom.jpg" afterPath="$PROJECT_DIR$/img/Africa/africa-school-classroom.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/african-feet.png" afterPath="$PROJECT_DIR$/img/Africa/african-feet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/african-heads-motive.png" afterPath="$PROJECT_DIR$/img/Africa/african-heads-motive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/african-woman-feet.jpg" afterPath="$PROJECT_DIR$/img/Africa/african-woman-feet.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/african-womans-feet.png" afterPath="$PROJECT_DIR$/img/Africa/african-womans-feet.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/african-womans-heads.jpg" afterPath="$PROJECT_DIR$/img/Africa/african-womans-heads.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/bikes-redim.png" afterPath="$PROJECT_DIR$/img/OutdoorLife/bikes-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/bikes.JPG" afterPath="$PROJECT_DIR$/img/OutdoorLife/bikes.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/blue-boys.jpg" afterPath="$PROJECT_DIR$/img/Africa/blue-boys.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/boyzzzzz.png" afterPath="$PROJECT_DIR$/img/Carousel/boyzzzzz.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/coderlab-redim.png" afterPath="$PROJECT_DIR$/img/CoderDojo/coderlab-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colored-balls-350x233.png" afterPath="$PROJECT_DIR$/img/OutdoorLife/colored-balls-350x233.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/colored-balls1140x455.png" afterPath="$PROJECT_DIR$/img/OutdoorLife/colored-balls1140x455.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/crem-aug-resized.jpg" afterPath="$PROJECT_DIR$/img/Africa/crem-aug-resized.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/diplomas-redim.png" afterPath="$PROJECT_DIR$/img/CoderDojo/diplomas-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/egg-boys.jpg" afterPath="$PROJECT_DIR$/img/Africa/egg-boys.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/ethnic-african-motives.jpg" afterPath="$PROJECT_DIR$/img/Africa/ethnic-african-motives.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/flags.png" afterPath="$PROJECT_DIR$/img/Logos/flags.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logo-cluj-hub-01-300x111.png" afterPath="$PROJECT_DIR$/img/Logos/logo-cluj-hub-01-300x111.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/masai-girl-colors-350x233.jpg" afterPath="$PROJECT_DIR$/img/Africa/masai-girl-colors-350x233.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/masai-girl-colors.jpg" afterPath="$PROJECT_DIR$/img/Africa/masai-girl-colors.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/me-happy-cutties.png" afterPath="$PROJECT_DIR$/img/Africa/me-happy-cutties.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/mentors.png" afterPath="$PROJECT_DIR$/img/CoderDojo/mentors.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/outdoor-circleground.JPG" afterPath="$PROJECT_DIR$/img/OutdoorLife/outdoor-circleground.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/outdoor-rope.JPG" afterPath="$PROJECT_DIR$/img/OutdoorLife/outdoor-rope.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/pink-girl.JPG" afterPath="$PROJECT_DIR$/img/Africa/pink-girl.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/revolution-redim.png" afterPath="$PROJECT_DIR$/img/CoderDojo/revolution-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/robbotie-redim.png" afterPath="$PROJECT_DIR$/img/CoderDojo/robbotie-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/star-baby-redim.png" afterPath="$PROJECT_DIR$/img/Africa/star-baby-redim.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/star_baby_african.JPG" afterPath="$PROJECT_DIR$/img/Africa/star_baby_african.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CoderDojoAfrica.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Trying960Grid.html/CoderDojoAfrica.html" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/Index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mircea.css" afterPath="$PROJECT_DIR$/css/Mircea.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mircea.html" afterPath="$PROJECT_DIR$/Mircea.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Documentaries-EN.html" afterPath="$PROJECT_DIR$/Documentaries-EN.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Partners.html" afterPath="$PROJECT_DIR$/Partners.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ledweb.github.io.iml" afterPath="$PROJECT_DIR$/.idea/ledweb.github.io.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ledweb.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -139,14 +29,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="7.125984" vertical-offset="0" max-vertical-offset="6630">
-              <caret line="362" column="201" selection-start-line="362" selection-start-column="201" selection-end-line="362" selection-end-column="201" />
+            <state vertical-scroll-proportion="-22.307692" vertical-offset="3315" max-vertical-offset="6645">
+              <caret line="337" column="0" selection-start-line="337" selection-start-column="0" selection-end-line="337" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoderDojo.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CoderDojo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18382353" vertical-offset="0" max-vertical-offset="3225">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoderDojoAfrica.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoderDojoAfrica.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-65.625" vertical-offset="0" max-vertical-offset="3255">
+              <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="139" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,16 +76,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3405">
               <caret line="3" column="64" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="64" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CoderDojoAfrica.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Trying960Grid.html/CoderDojoAfrica.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="7.5" vertical-offset="330" max-vertical-offset="3240">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -206,12 +106,13 @@
         <option value="$PROJECT_DIR$/Trying960Grid.html/CoderDojoAfrica.html" />
         <option value="$PROJECT_DIR$/css/LED.css" />
         <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/CoderDojoAfrica.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="196" />
-    <option name="y" value="22" />
+    <option name="x" value="204" />
+    <option name="y" value="38" />
     <option name="width" value="1338" />
     <option name="height" value="950" />
   </component>
@@ -339,7 +240,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zeeguu-Web" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -405,7 +306,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="196" y="22" width="1338" height="950" extended-state="1" />
+    <frame x="204" y="38" width="1338" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -588,22 +489,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/CoderDojoAfrica.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3405">
-          <caret line="3" column="64" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trying960Grid.html/CoderDojoAfrica.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.5" vertical-offset="330" max-vertical-offset="3240">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/LED.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-64.166664" vertical-offset="0" max-vertical-offset="7350">
@@ -614,11 +499,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.125984" vertical-offset="0" max-vertical-offset="6630">
-          <caret line="362" column="201" selection-start-line="362" selection-start-column="201" selection-end-line="362" selection-end-column="201" />
+        <state vertical-scroll-proportion="-22.307692" vertical-offset="3315" max-vertical-offset="6645">
+          <caret line="337" column="0" selection-start-line="337" selection-start-column="0" selection-end-line="337" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/CoderDojoAfrica.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3405">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoderDojoAfrica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-65.625" vertical-offset="0" max-vertical-offset="3255">
+          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="139" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoderDojo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18382353" vertical-offset="0" max-vertical-offset="3225">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
