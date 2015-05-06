@@ -127,26 +127,30 @@ body {
 /*CHILDREN PROFILE PRESENTATION*/
 
 #title-children-presentation {
-    padding-top: 100px;
+    /*padding-top: 50px;*/
+}
+
+.children-photos{
+    margin-bottom: 100px;
 }
 
 .child-photo img{
     width: 220px;
-    height: 220px;
+    height: 220px
     /*border: 3px solid slategrey;*/
 }
 
 .child-photo {
     color: #474747;
+    height: 540px;
     text-align: center;
     font-family:"Raleway-SemiBold",sans-serif, "Open Sans",sans-serif, "Conv_AvenirLTStd-Book",sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     /*line-height: 20px;*/
     border: 2px solid #F2F2F2;
     padding-top: 10px;
     background-color: #F2F2F2;
     /*border: 2px solid lightgrey;*/
-
 }
 
 .child-text-cassette {
@@ -156,20 +160,19 @@ body {
 
 .child-photo h3{
     color: #474747;
-    font-size: 22px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
     /*border-bottom: 1px solid slategrey;*/
     /*padding-bottom: 20px;*/
     margin-bottom: 30px;
 }
 
-.laptop-photo img{
-    width: 360px;
-    height: 360px;
+.laptop-photo {
+    width: 50px;
+    height: 50px;
 
 }
-
-
-
 
 /*.outer-center {*/
   /*width: 100%; }*/
