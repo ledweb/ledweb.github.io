@@ -1,0 +1,48 @@
+
+#amazingcarousel-11style {
+    display: block;
+    position: relative;
+    width: 100%;
+    max-width: 360px;
+    margin: 0px auto;
+    direction: ltr;
+}
+
+.amazingcarousel-list-container {
+    position: relative;
+    margin: 0px auto;
+    overflow: visible;
+    width: 360px;
+}
+
+.amazingcarousel-list-wrapper {
+    overflow: hidden;
+    width: 360px;
+}
+
+.amazingcarousel-list {
+    display: block;
+    position: relative;
+    list-style-type: none;
+    list-style-image: none;
+    padding: 0px;
+    margin: 0px 0px 0px -2160px;
+    width: 3600px;
+    background-image: none;
+    background-color: transparent;
+}
+
+.amazingcarousel-item {
+    display: block;
+    position: relative;
+    margin: 0px; padding: 0px;
+    float: left;
+    width: 360px;
+    background-image: none;
+    background-color: transparent;
+}
+
+.amazingcarousel-item-container {
+    position: relative;
+    margin: 0px 2px;
+}

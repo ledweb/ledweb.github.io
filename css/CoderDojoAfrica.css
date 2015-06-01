@@ -1,7 +1,9 @@
 
-@import url('Ralewayhttp://fonts.googleapis.com/css?family=');
+/*@import url('Ralewayhttp://fonts.googleapis.com/css?family=');*/
 
-@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+/*@import url('http://fonts.googleapis.com/css?family=Open+Sans');*/
+
+@import url(http://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope);
 
 body {
     /*font-family: "Helvetica Neue",sans-serif,"Open Sans", sans-serif, "Times New Roman", "Conv_AvenirLTStd-Book", Sans-Serif;*/
@@ -83,7 +85,7 @@ body {
     font-family: 'Copperplate', sans-serif;
     font-size: 25px;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     margin-top: 20px;
     /*padding-top: -10px;*/
 }
@@ -99,14 +101,14 @@ body {
 
 .next-tech-kids-description p {
     font-size: 17px;
-    margin-bottom: 120px;
+    margin-bottom: 60px;
     /*text-align: center;*/
 }
 
 .next-tech-kids-description h4 {
     font-size: 18px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid rgba(169, 169, 169, 0.4);
+    padding-bottom: 30px;
+    /*border-bottom: 1px solid rgba(169, 169, 169, 0.4);*/
 }
 
 .digitize-kenya-photo {
@@ -126,78 +128,161 @@ body {
 
 /*CHILDREN PROFILE PRESENTATION*/
 
-#title-children-presentation {
-    /*padding-top: 50px;*/
-}
-
-.children-photos{
-    margin-bottom: 100px;
-}
-
-.child-photo img{
-    width: 220px;
-    height: 220px
-    /*border: 3px solid slategrey;*/
-}
-
-.child-photo {
-    color: #474747;
-    height: 540px;
-    text-align: center;
-    font-family:"Raleway-SemiBold",sans-serif, "Open Sans",sans-serif, "Conv_AvenirLTStd-Book",sans-serif;
-    font-size: 14px;
-    /*line-height: 20px;*/
-    border: 2px solid #F2F2F2;
-    padding-top: 10px;
-    background-color: #F2F2F2;
-    /*border: 2px solid lightgrey;*/
-}
-
-.child-text-cassette {
-    /*border: 2px solid lightgrey;*/
-    margin-top: 20px;
-}
-
-.child-photo h3{
-    color: #474747;
-    font-size: 18px;
-    text-align: center;
-    font-weight: bold;
-    /*border-bottom: 1px solid slategrey;*/
-    /*padding-bottom: 20px;*/
-    margin-bottom: 30px;
-}
-
-.laptop-photo {
-    width: 50px;
-    height: 50px;
-
-}
-
-/*.outer-center {*/
-  /*width: 100%; }*/
-
-.inner-center {
-  display: block;
-  margin: 0px auto; }
-
-.laptop-photo {
-  display: table-cell;
-  vertical-align: middle;
-  font-family: 'Copperplate', sans-serif;
-}
-
-
-.children-photos {
-    margin-bottom: 40px;
-    color: #474747;
-}
 
 #children-presentation {
     margin-top: 70px;
     background-color: white;
     padding-bottom: 60px;
 }
+
+#title-children-presentation {
+    /*padding-top: 50px;*/
+}
+
+/*.children-presentation-block {*/
+    /*padding-bottom: 50px;*/
+/*}*/
+
+
+.second-row {
+    /*border-top: 2px solid #F2F2F2;*/
+    border-top: 2px solid #F2F2F2;
+    margin: 0px 80px;
+    height: 450px;
+}
+
+.without-upper-border {
+    border-top: none;
+}
+
+.second-row h3 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family:'Annie Use Your Telescope', sans-serif;
+    margin-bottom: 70px;
+}
+
+.second-row h2 {
+    font-size: 24px;
+    text-align: center;
+    /*font-weight: bold;*/
+    font-family:'Annie Use Your Telescope', sans-serif;
+    margin-bottom: 70px;
+}
+
+.second-row h1 {
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    font-family:'Annie Use Your Telescope', sans-serif;
+    margin-bottom: 70px;
+}
+
+.child-presentation {
+    color: #474747;
+    text-align: center;
+    font-family:'Annie Use Your Telescope', sans-serif; "Raleway-SemiBold",sans-serif, "Open Sans",sans-serif, "Conv_AvenirLTStd-Book",sans-serif;
+    font-size: 22px;
+    width: 400px;
+    /*margin-bottom: 120px;*/
+    /*border: 2px solid lightgrey;*/
+    /*line-height: 20px;*/
+}
+
+/*#dodo {*/
+    /*margin-top: 30px;*/
+    /*padding: -70px;*/
+    /*border: 2px solid lightgrey;*/
+    /*border-top: 2px solid #F2F2F2;*/
+/*}*/
+
+
+.child-text-cassette {
+    margin-top: 75px;
+    min-height: 250px;
+    padding-bottom: 30px;
+    /*padding: 10px;*/
+}
+
+/*#wiwi {*/
+    /*margin-top: 60px;*/
+/*}*/
+
+
+.child-img{
+    width: 250px;
+    height: 250px;
+    border: 4px solid lightgrey;
+    margin-bottom: 40px;
+    /*border: 1px solid #a3a3a3;*/
+    /*background-color: #22ff22;*/
+    /*padding: 10px 40px;*/
+}
+
+
+.child-presentation h3 {
+    color: #474747;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+    /*border-bottom: 1px solid slategrey;*/
+    /*padding-bottom: 20px;*/
+    /*border: 2px solid #F2F2F2;*/
+}
+
+.laptop-img {
+    width: 220px;
+    height: 220px;
+    /*float: right;*/
+    padding-top: -20px;
+    margin-left: 30px;
+}
+
+.laptop-thanks {
+    border-top: 2px solid lightgrey;
+    padding-top: 10px;
+    /*background-color: rgba(44, 130, 35, 0.22);*/
+    /*height: 150px;*/
+}
+
+.laptop-thanks p {
+    padding-top: 20px;
+}
+
+
+/*.children-presentation-block {*/
+    /*margin-bottom: 40px;*/
+    /*color: #474747;*/
+/*}*/
+
+
+/*.child-text-cassette-second-row p {*/
+/*font-family:'Annie Use Your Telescope', sans-serif;*/
+/*padding-top: 60px;*/
+/*background-color: lawngreen;*/
+/*opacity: 0.8;*/
+/*}*/
+
+
+/*.laptop-cassette {*/
+/*font-family:'Annie Use Your Telescope', sans-serif;'Copperplate', sans-serif;*/
+/*font-size:14px;*/
+/*font-weight: bold;*/
+/*text-align: center;*/
+/*margin-top: 40px;*/
+/*}*/
+
+/*.outer-center {*/
+/*width: 100%; }*/
+
+/*.inner-center {*/
+/*display: block;*/
+/*margin: 0px auto; }*/
+
+
+
 /*FOOTER*/
 
 footer {
