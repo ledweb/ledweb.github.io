@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5280080c-677e-45d0-8797-3748894411cc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/comments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/special-fonts.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/CoderDojoAfrica.css" afterPath="$PROJECT_DIR$/css/CoderDojoAfrica.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoderDojoAfrica.html" afterPath="$PROJECT_DIR$/CoderDojoAfrica.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ledweb.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,8 +30,8 @@
           <file leaf-file-name="CoderDojoAfrica.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CoderDojoAfrica.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.038944725" vertical-offset="3299" max-vertical-offset="4095">
-                  <caret line="222" column="92" selection-start-line="222" selection-start-column="92" selection-end-line="222" selection-end-column="92" />
+                <state vertical-scroll-proportion="0.5665829" vertical-offset="2054" max-vertical-offset="4095">
+                  <caret line="167" column="22" selection-start-line="167" selection-start-column="22" selection-end-line="167" selection-end-column="22" />
                   <folding>
                     <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -75,7 +70,7 @@
           <file leaf-file-name="CoderDojoAfrica.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/CoderDojoAfrica.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="4.422836" vertical-offset="0" max-vertical-offset="4605">
+                <state vertical-scroll-proportion="4.5542636" vertical-offset="0" max-vertical-offset="4605">
                   <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
                   <folding />
                 </state>
@@ -161,8 +156,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="251" />
-    <option name="y" value="60" />
+    <option name="x" value="153" />
+    <option name="y" value="29" />
     <option name="width" value="1407" />
     <option name="height" value="930" />
   </component>
@@ -261,7 +256,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="FrameEffect" />
+              <option name="myItemId" value="B&amp;W" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -491,7 +486,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="251" y="60" width="1407" height="930" extended-state="0" />
+    <frame x="153" y="29" width="1407" height="930" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -499,7 +494,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.03695807" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20753376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -801,7 +796,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/CoderDojoAfrica.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.422836" vertical-offset="0" max-vertical-offset="4605">
+        <state vertical-scroll-proportion="4.5542636" vertical-offset="0" max-vertical-offset="4605">
           <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
           <folding />
         </state>
@@ -841,8 +836,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CoderDojoAfrica.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.038944725" vertical-offset="3299" max-vertical-offset="4095">
-          <caret line="222" column="92" selection-start-line="222" selection-start-column="92" selection-end-line="222" selection-end-column="92" />
+        <state vertical-scroll-proportion="0.5665829" vertical-offset="2054" max-vertical-offset="4095">
+          <caret line="167" column="22" selection-start-line="167" selection-start-column="22" selection-end-line="167" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
