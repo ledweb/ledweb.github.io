@@ -2,9 +2,13 @@
 
 @font-face {
     font-family: "Type Righter";
-    src: url("rm_typerighter_old.ttf");
+    src: url("../fonts/rm_typerighter_old.ttf");
 }
 
+@font-face {
+    font-family: "Kite One";
+    src: url("../fonts/KiteOne-Regular.ttf");
+}
 
 /*@font-face {*/
     /*font-family: "Machine Type";*/
