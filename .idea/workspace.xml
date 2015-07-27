@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5280080c-677e-45d0-8797-3748894411cc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CoderDojoAfrica.html" afterPath="$PROJECT_DIR$/CoderDojoAfrica.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/CoderDojoAfrica.css" afterPath="$PROJECT_DIR$/css/CoderDojoAfrica.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="ledweb.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,14 +25,14 @@
     <favorites_list name="ledweb.github.io" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.64468867">
+    <splitter split-orientation="horizontal" split-proportion="0.5524664">
       <split-first>
         <leaf>
-          <file leaf-file-name="CoderDojoAfrica.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="CoderDojoAfrica.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/CoderDojoAfrica.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5665829" vertical-offset="2054" max-vertical-offset="4095">
-                  <caret line="167" column="22" selection-start-line="167" selection-start-column="22" selection-end-line="167" selection-end-column="22" />
+                <state vertical-scroll-proportion="-58.791668" vertical-offset="689" max-vertical-offset="4095">
+                  <caret line="140" column="49" selection-start-line="140" selection-start-column="49" selection-end-line="140" selection-end-column="49" />
                   <folding>
                     <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -39,6 +40,16 @@
                     <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#span#1;n#p#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.39447236" vertical-offset="2776" max-vertical-offset="6630">
+                  <caret line="206" column="62" selection-start-line="206" selection-start-column="62" selection-end-line="206" selection-end-column="62" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -70,8 +81,8 @@
           <file leaf-file-name="CoderDojoAfrica.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/CoderDojoAfrica.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="4.5542636" vertical-offset="0" max-vertical-offset="4605">
-                  <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.6352624" vertical-offset="983" max-vertical-offset="4620">
+                  <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -146,12 +157,12 @@
         <option value="$PROJECT_DIR$/css/comments.css" />
         <option value="$PROJECT_DIR$/css/comments.html" />
         <option value="$PROJECT_DIR$/carousel.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ro/comments.html" />
         <option value="$PROJECT_DIR$/fonts/special-fonts.css" />
         <option value="$PROJECT_DIR$/PentruDaniela.html" />
-        <option value="$PROJECT_DIR$/css/CoderDojoAfrica.css" />
         <option value="$PROJECT_DIR$/CoderDojoAfrica.html" />
+        <option value="$PROJECT_DIR$/css/CoderDojoAfrica.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -706,6 +717,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
           <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -786,22 +798,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.66431093" vertical-offset="5386" max-vertical-offset="6630">
-          <caret line="334" column="0" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/CoderDojoAfrica.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.5542636" vertical-offset="0" max-vertical-offset="4605">
-          <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ro/comments.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2756" max-vertical-offset="4275">
@@ -834,10 +830,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/CoderDojoAfrica.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6352624" vertical-offset="983" max-vertical-offset="4620">
+          <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CoderDojoAfrica.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5665829" vertical-offset="2054" max-vertical-offset="4095">
-          <caret line="167" column="22" selection-start-line="167" selection-start-column="22" selection-end-line="167" selection-end-column="22" />
+        <state vertical-scroll-proportion="-58.791668" vertical-offset="689" max-vertical-offset="4095">
+          <caret line="140" column="49" selection-start-line="140" selection-start-column="49" selection-end-line="140" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -845,6 +849,14 @@
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#p#0;n#div#0;n#div#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39447236" vertical-offset="2776" max-vertical-offset="6630">
+          <caret line="206" column="62" selection-start-line="206" selection-start-column="62" selection-end-line="206" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>
