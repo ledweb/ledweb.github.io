@@ -44,7 +44,7 @@ body {
 }
 
 .page-header h1 .smalltitle {
-    font-size: 21px;
+    font-size: 26px;
     font-family: "Open Sans",sans-serif, "Helvetica Neue",sans-serif,"Raleway",sans-serif;
 }
 
@@ -75,7 +75,8 @@ body {
     font-size:16px;
     text-transform:uppercase;
     color:black;
-    border-right: 2px solid rgba(169, 169, 169, 0.52);
+    border-right: 1px solid rgba(214, 214, 214, 0.68);
+    margin-bottom: 40px;
 }
 
 .navbar-nav li a:link {
@@ -123,14 +124,14 @@ margin-bottom:10px;
 /*NEWEST PROJECT*/
 
 .projects {
-    border-top: 1px solid rgba(169, 169, 169, 0.68);
+    border-top: 1px solid rgba(214, 214, 214, 0.68);
     margin-left: 100px;
     margin-right: 100px;
 }
 
-#title-projects {
-    margin-top: 40px;
-    margin-bottom: 150px;
+.title-projects {
+    margin-top: 100px;
+    margin-bottom: 100px;
     text-align:center;
     font-family:"Copperplate",sans-serif;"Raleway-SemiBold",sans-serif, "Open Sans",sans-serif, "Conv_AvenirLTStd-Book",sans-serif;
 }
@@ -170,19 +171,25 @@ margin-bottom:10px;
     /*background-color: yellowgreen;*/
     opacity:0.8;
     font-family:"Copperplate", sans-serif;
-    font-size: 25px;
-    padding-top: -10px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: -20px;
     text-align: center;
 }
-
 
 #find-more-digitize-kenya {
     background-color: yellowgreen;
     /*background-size: 50px 50px;*/
     /*opacity:0.7;*/
     font-family:"Copperplate", sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
+    margin: 0px 40px 40px;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 40px;
+    line-height: 40px;
+    white-space: nowrap;
 }
 
 #find-more-digitize-kenya:hover {
@@ -218,10 +225,16 @@ margin-bottom:10px;
     width:100%;
     /*height:280px;*/
     background-color: ghostwhite;
+    color: #5C5C5C;
     padding:10px 5px 5px 5px;
-    box-shadow: -5px 6px 7px #777;
+    box-shadow: -1px 2px 5px 0px #777;
     /*-webkit-transform:rotate(-4deg);*/
 }
+
+.white-background-picture h3 {
+    font-size: 20px;
+}
+
 
 .rotate-left {
     -webkit-transform:rotate(-3deg);
@@ -262,7 +275,7 @@ margin-bottom:10px;
     border-radius:2px;
     width: 100%;
     margin-bottom: 120px;
-    box-shadow: -5px 6px 7px #777;
+    /*box-shadow: -5px 6px 7px #777;*/
 }
 
 .text-block-projects h3 {
@@ -279,6 +292,8 @@ margin-bottom:10px;
 
 .projects-title {
     color: white;
+    font-size: 20px;
+
 }
 
 .flag {
@@ -359,13 +374,14 @@ margin-bottom:10px;
 /*TEAM*/
 
 .team {
-    border-top: 1px solid rgba(169, 169, 169, 0.68);
+    border-top: 1px solid rgba(214, 214, 214, 0.68);
     margin-left: 100px;
     margin-right: 100px;
+    margin-bottom: 100px;
 }
 
 #title-team{
-    margin-top: 40px;
+    margin-top: 100px;
     margin-bottom: 100px;
 }
 
@@ -386,9 +402,15 @@ margin-bottom:10px;
     font-weight: bold;
 }
 
+.team-member-status {
+    font-size: 15px;
+    /*font-weight: bold;*/
+    margin-top: -10px;
+}
+
 .member-text {
     text-align:center;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 .member-photo-ada {
